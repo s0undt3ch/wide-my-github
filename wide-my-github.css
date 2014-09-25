@@ -10,16 +10,22 @@
   .gh-header-back {
     margin-left: 0px !important;
   }
-  .container > .repository-content, .container > .repo-container > .repository-content {
+  .container > .repository-content,
+  .container > .repo-container > .repository-content {
     width: 96% !important;
   }
-  .container > .with-full-navigation > .repository-content, .pull-request-composer .discussion-topic {
+  .container > .with-full-navigation > .repository-content,
+  .pull-request-composer .discussion-topic {
     width: 88% !important;
   }
-  .column-main, .repo-settings-content, .settings-content, .js-new-issue-form > .discussion-timeline-cols > .main {
+  .column-main,
+  .repo-settings-content,
+  .settings-content,
+  .js-new-issue-form > .discussion-timeline-cols > .main {
     width: 84% !important;
   }
-  .new-discussion-timeline .discussion-timeline, .timeline-new-comment {
+  .new-discussion-timeline .discussion-timeline,
+  .timeline-new-comment {
     width: 90% !important;
     max-width: 100% !important;
   }

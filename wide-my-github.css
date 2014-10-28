@@ -35,6 +35,10 @@
   .list-group-item-meta .branch-name .css-truncate-target {
     max-width: 100% !important;
   }
+  #comments,
+  .comment-holder {
+    max-width: inherit !important;
+  }
 }
 
 @-moz-document domain("gist.github.com") {

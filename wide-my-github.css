@@ -37,7 +37,7 @@
   }
   #comments,
   .comment-holder {
-    max-width: inherit !important;
+    max-width: 1100px !important;
   }
 }
 
